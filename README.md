@@ -90,7 +90,7 @@
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRACEINRIALY&show_icons=true&theme=dracula&hide_border=true&title_color=FF00FF&icon_color=FFD700&text_color=00BFFF&border_color=00FF7F&cache_buster=20251017_2" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GRACEINRIALY&show_icons=true&theme=dracula&hide_border=true&title_color=FF00FF&icon_color=FFD700&text_color=00BFFF&border_color=00FF7F&cache_seconds=3600" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRACEINRIALY&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FFD700&icon_color=00BFFF&text_color=00FF7F&border_color=FF00FF&cache_buster=20251017_2" height="165"/>
 </div>
 
